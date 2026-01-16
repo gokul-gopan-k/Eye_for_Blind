@@ -1,0 +1,8 @@
+streamlit>=1.30
+torch>=2.1
+torchvision>=0.15.0
+opencv-python>=4.8
+ultralytics>=8.0
+matplotlib>=3.7
+numpy>=1.25
+timm>=0.9.0
