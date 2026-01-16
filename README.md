@@ -4,6 +4,11 @@ Real-time vision-based hazard detection and guidance system for visually impaire
 This project integrates YOLOv8 object detection and MiDaS depth estimation to provide context-aware audio alerts in both English and Hindi, helping users navigate safely through real-world environments.
 The system is designed as a production-ready pipeline, demonstrating practical experience with computer vision, deep learning, model optimization, and real-time inference.
 
+| Input Image |  Output |
+|------------|-------------|
+| ![Input](sample/input_image.png) | ![Output](sample/yolo_output.png) |
+
+
 ## Features
 
 - End-to-end vision pipeline: Detect objects → Estimate distance → Prioritize hazards → Generate audio alerts.
