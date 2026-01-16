@@ -6,7 +6,7 @@ The system is designed as a production-ready pipeline, demonstrating practical e
 
 | Input Image |  Output |
 |------------|-------------|
-| ![Input](sample_output/input_image.png) | ![Output](sample_output/yolo_output.png) |
+| ![Input](sample_output/input.png) | ![Output](sample_output/output.png) |
 
 
 ## Features
